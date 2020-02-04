@@ -1,0 +1,551 @@
+#,TITLE,ARTIST,RELEASE,BPM,ENERGY,DANCE,LOUD,VALENCE,LENGTH,ACOUSTIC,POP.,RND
+1,El Club De Las Feas,Banda El Recodo,1/1/2006,120,81,70,-3,96,2:43,30,33,7276
+2,El Año Viejo,Los Socios Del Ritmo,11/22/2019,81,91,67,-4,91,2:53,4,46,6752
+3,Amor a Primera Vista,Los Angeles Azules,6/14/2019,170,76,66,-6,95,3:41,32,81,267
+4,El Chico Del Apartamento 512,Selena,1994,102,65,76,-10,93,3:29,48,66,6664
+5,Procura,ChiChi Peralta,7/1/1997,102,76,81,-7,97,4:33,31,13,1230
+6,Pa' Olvidarme De Ella,Piso 21,9/6/2019,90,54,73,-5,64,3:47,26,87,8579
+7,La Mejor De Todas,Banda El Recodo,1/1/2011,144,58,59,-5,90,3:27,45,71,6710
+8,Alrededor del Árbol de Navidad,Banda Sinaloense MS de Sergio Lizárraga,11/29/2019,152,33,81,-7,77,2:05,4,54,1781
+9,Como La Flor,Selena,1995,91,75,63,-8,87,3:05,16,65,6824
+10,Ya Me Enteré,Los Angeles De Charly,10/4/2019,156,63,52,-4,43,2:38,1,55,291
+11,Oye,La Sonora Dinamita,8/11/2015,112,76,81,-6,91,3:10,39,42,1426
+12,El Baile Del Pingüino,Liberación,1/1/2001,102,80,75,-8,91,3:20,25,21,2513
+13,Feliz Navidad,Margarita la diosa de la cumbia,11/22/2019,96,83,83,-5,71,4:23,8,29,7167
+14,Eva María,Banda Maguey,1995,148,94,84,-5,98,2:48,33,48,8011
+15,Me Volví A Acordar De Ti,Los Angeles De Charly,1/1/2009,146,58,66,-5,73,3:57,15,59,6219
+16,Yo No Sé Mañana,Luis Enrique,5/19/2009,95,83,65,-3,73,4:20,65,76,8234
+17,Mi Niña Mujer,Los Angeles Azules,2016,86,63,48,-4,81,3:14,41,69,7221
+18,Ya Me Enteré,Chayín Rubio,5/11/2018,132,59,66,-4,69,3:09,84,77,4677
+19,Que nadie sepa mi sufrir (Amor de mis amores),Margarita la diosa de la cumbia,10/26/2010,192,71,59,-6,96,4:19,14,58,7512
+20,En Peligro de Extinción,La Adictiva Banda San José de Mesillas,6/18/2018,124,48,71,-4,83,3:54,22,77,5762
+21,Qué Bello,La Sonora Dinamita,10/25/2019,100,66,83,-4,75,4:15,35,55,6761
+22,Nunca Es Suficiente,Los Angeles Azules,6/8/2018,94,50,80,-6,80,4:26,39,77,6430
+23,El Malo,Carin Leon,8/2/2019,143,44,68,-6,79,2:57,73,65,719
+24,Burrito Sabanero,Margarita la diosa de la cumbia,11/30/2019,104,72,93,-5,91,3:55,76,32,4718
+25,La Flaca,J.L.B. Y Cía,1/1/2009,202,70,60,-8,96,3:39,35,34,7955
+26,Fuerte No Soy,Intocable,1/1/1999,126,43,66,-11,46,4:27,12,69,2341
+27,Un Sueño,Los Angeles De Charly,1/1/2002,149,67,66,-4,74,3:45,5,70,5548
+28,El Superman,Los Cartageneros,5/6/2016,88,55,74,-9,71,3:29,50,44,2258
+29,No Te Contaron Mal,Christian Nodal,5/10/2019,81,57,64,-3,65,2:37,37,76,4001
+30,Vino Y Ron,J.L.B. Y Cía,1/1/2012,204,64,51,-8,85,3:13,37,28,3799
+31,Ladrón,Alicia Villarreal,1/1/2001,87,68,81,-6,91,5:40,66,43,7760
+32,El Listón De Tu Pelo,Los Angeles Azules,1/1/1999,81,43,70,-8,77,3:36,31,67,6251
+33,Micaela,Alacranes Musical,1/1/2003,158,96,58,-3,94,3:56,15,45,6156
+34,Un Monton De Estrellas,Polo Montañez,2004,93,65,50,-7,62,6:04,17,55,663
+35,La Cumbia Del Lazo,J.L.B. Y Cía,1/1/1998,198,71,50,-7,96,2:39,22,45,987
+36,Cumbia De La Alberca,Cumbias Sonideras,1/7/2019,172,38,84,-12,62,2:49,17,42,60
+37,Mi Razón De Ser,Banda Sinaloense MS de Sergio Lizárraga,1/1/2012,125,54,73,-6,45,3:30,47,73,1983
+38,Espero Que Te Acuerdes de Mi,Agrupación Cariño,1/14/2011,89,51,72,-13,90,3:31,7,52,9512
+39,Yo No Soy Abusadora,Laura Leon,1/1/2009,116,84,90,-5,96,3:12,52,45,9873
+40,A Través Del Vaso,Grupo Arranke,10/25/2017,144,70,62,-3,92,3:09,36,75,5442
+41,Piensa En Mí,Grupo Mojado,1/1/1996,80,54,72,-9,81,2:57,35,70,26
+42,La Chica Que Soñé,Tropical Panamá,1/1/1992,177,53,72,-8,82,3:11,27,55,6718
+43,Talento De Televisión,Willie Colón,6/7/2010,105,80,78,-7,94,4:39,70,70,1374
+44,Cumbia Morena,Control,1/1/2005,107,71,83,-6,97,3:15,20,46,2952
+45,Pelotero A La Bola,J.L.B. Y Cía,1/1/1998,134,78,71,-8,83,3:01,27,42,7877
+46,Mix Sonora Dinamita: La Parabólica / Maruja / Ay Chave,Los Tokes,5/6/2013,98,72,77,-8,49,5:16,1,32,6681
+47,Vamonos de Fiesta,Banda El Recodo,3/11/1994,159,78,60,-8,96,3:08,37,50,4224
+48,La niña fresa,Banda Zeta,10/25/2007,136,66,86,-10,96,2:41,13,58,8824
+49,La Cumbia Te Llama,Aaron Y Su Grupo Ilusion,3/29/2019,177,74,54,-5,65,3:54,44,43,4770
+50,Mis Sentimientos,Los Angeles Azules,2013,93,72,74,-5,80,3:37,21,71,773
+51,Ojalá que te mueras,Pesado,7/20/2004,87,78,59,-6,85,3:01,31,67,3001
+52,La Vecinita,K-Paz De La Sierra,1/1/2004,155,79,74,-6,98,2:36,15,53,1320
+53,Escándalo,La Sonora Dinamita,10/25/2019,103,79,80,-4,73,4:38,43,50,7485
+54,¿Y Todo Para Qué?,Intocable,1/1/1996,103,64,69,-8,78,3:11,34,70,4960
+55,Cómo Te Voy A Olvidar,Los Angeles Azules,1/1/2014,83,47,65,-8,66,4:31,26,17,5027
+56,La Chica de Humo,Zorro,5/6/2013,104,41,89,-15,93,2:46,7,41,5400
+57,El Burrito de Belen (El Burrito Sabanero),La Rondallita,11/11/2013,105,45,74,-10,92,3:07,35,5,515
+58,Pasito Tun Tun,J.L.B. Y Cía,1/1/1998,87,56,69,-9,78,2:56,45,36,5369
+59,Agua De Té,Los Titanes De Durango,1/1/2009,156,94,70,-4,98,3:57,13,50,1177
+60,"Suavecito, Suavecito",Laura Leon,1994,96,53,75,-9,90,3:46,64,2,5464
+61,Tus Jefes No Me Quieren,Sonideros de MEX USA,4/12/2019,180,58,65,-8,96,3:44,18,64,9590
+62,Bailame,Los Tigrillos,3/26/2002,114,90,87,-6,93,3:00,23,56,1335
+63,Adiós Amor,Christian Nodal,8/25/2017,178,43,43,-6,72,3:19,17,77,7375
+64,Borracho de Amor,Edwin Luna y La Trakalosa de Monterrey,5/14/2013,154,48,65,-6,94,3:24,70,71,3646
+65,El Venao,Banda Caliente,1/12/2011,126,69,83,-12,70,3:23,9,31,3478
+66,Oasis De Amor,Simba Musical,7/5/2011,89,90,72,-2,81,3:00,10,52,8924
+67,"Tao, Tao",Control,1/1/2008,103,87,86,-5,95,2:52,21,49,6789
+68,La Última Coca del Desierto,Los Master Plus,12/7/2018,204,76,47,-5,89,3:32,6,43,7845
+69,Techno Cumbia,Selena,1/1/2005,91,69,73,-8,95,3:47,34,31,3162
+70,Abusadora,Wilfrido Vargas,3/18/2003,155,90,71,-4,84,4:10,37,49,4466
+71,La secretaria,Banda Machos,3/24/2009,143,82,83,-8,97,2:52,38,46,4328
+72,Muchachita Consentida,Rayito Colombiano,1/1/1997,85,61,78,-6,93,3:32,29,69,6132
+73,Se Menea,Los Karkik's,2008,154,90,56,-6,96,2:32,18,53,9979
+74,El Botecito,Los Hijos Del Pueblo,6/17/2009,112,86,84,-9,92,2:30,17,62,1394
+75,La Burbuja,Liberación,1/1/2001,95,86,65,-8,95,3:17,19,38,5233
+76,Y Yo Sigo Aqui,Paulina Rubio,1/1/2000,126,95,77,-7,87,4:15,0,57,2265
+77,you should see me in a crown,Billie Eilish,3/29/2019,150,53,68,-10,32,3:01,46,86,4790
+78,We Can't Stop,Miley Cyrus,10/4/2013,80,62,61,-6,48,3:51,1,79,3705
+79,Wannabe,Spice Girls,1/1/1996,110,86,77,-6,89,2:53,10,80,5453
+80,Wake Me Up,Avicii,1/1/2013,124,78,53,-6,64,4:07,0,85,6641
+81,Veneno,Anitta,11/9/2018,90,77,79,-5,30,2:38,5,69,2523
+82,Umbrella,Rihanna,6/2/2008,174,83,58,-5,57,4:36,1,81,6198
+83,Tu Sicaria,Ms Nina,1/4/2017,98,91,75,-7,69,2:27,5,81,8822
+84,Tusa,KAROL G,11/7/2019,101,72,80,-3,57,3:21,30,96,2456
+85,A Tu Manera [CORBATA],Sofia Reyes,10/11/2019,176,77,73,-4,56,2:55,3,70,4919
+86,Toxic,Britney Spears,11/13/2003,143,84,77,-4,92,3:19,2,79,3632
+87,Todavia,La Factoria,1/1/2009,113,90,79,-3,60,3:23,9,70,8960
+88,Titanium (feat. Sia),David Guetta,12/7/2012,126,79,60,-4,30,4:05,7,80,4207
+89,TiK ToK,Kesha,2010,120,83,76,-3,74,3:20,7,16,251
+90,This Love,Maroon 5,2002,95,86,71,-5,81,3:26,5,78,7210
+91,That's What I Like,Bruno Mars,11/17/2016,134,56,85,-5,86,3:27,1,84,471
+92,Te Vi,Piso 21,12/14/2018,102,78,88,-4,71,3:52,4,85,7969
+93,Ten Feet Tall,Afrojack,1/1/2014,127,86,52,-3,35,3:49,3,65,932
+94,Tabú,Pablo Alborán,11/6/2019,100,81,75,-6,55,3:00,4,78,4882
+95,Swing,Danny Ocean,3/22/2019,106,62,73,-6,53,2:35,46,80,3885
+96,Sweet but Psycho,Ava Max,8/17/2018,133,70,72,-5,63,3:07,7,89,1089
+97,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,12/14/2018,90,48,76,-6,91,2:38,56,90,9265
+98,Starships,Nicki Minaj,1/1/2012,125,72,75,-2,75,3:31,14,65,9288
+99,Sola,Manuel Turizo,11/9/2018,93,71,70,-5,86,3:15,48,67,7323
+100,Shabadabada,OV7,1997,176,91,65,-3,81,3:55,10,66,4216
+101,Señorita,Shawn Mendes,6/21/2019,117,54,76,-6,75,3:11,4,96,4671
+102,Rehab,Amy Winehouse,1/1/2006,72,87,43,-3,73,3:34,5,75,1772
+103,Promises (with Sam Smith),Calvin Harris,8/17/2018,123,77,78,-6,49,3:33,1,85,5718
+104,Plata Ta Tá,Mon Laferte,11/15/2019,95,80,81,-6,54,4:16,16,72,3094
+105,Party In The U.S.A.,Miley Cyrus,1/1/2009,96,70,65,-5,47,3:22,0,80,5447
+106,Pa Mí - Remix,Dalex,5/10/2019,170,62,69,-8,73,6:01,75,86,2406
+107,One Kiss (with Dua Lipa),Calvin Harris,4/6/2018,124,86,79,-3,59,3:35,4,86,4135
+108,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,11/30/2018,114,79,60,-6,24,3:37,1,81,271
+109,no tears left to cry,Ariana Grande,8/17/2018,122,71,70,-6,35,3:26,4,84,2324
+110,No seas Celoso,Kim Loaiza,12/12/2019,103,47,89,-8,53,3:01,1,66,203
+111,No Scrubs,TLC,2/23/1999,93,68,74,-4,59,3:34,3,80,5161
+112,No Puedo Olvidarme Ti,MDO,1997,129,80,71,-6,61,3:31,20,62,5218
+113,Ni Gucci Ni Prada,Kenny Man,9/14/2018,105,68,80,-6,91,2:55,41,77,3629
+114,Mr. Brightside,The Killers,6/15/2004,148,93,35,-4,24,3:42,0,18,8039
+115,The Middle,Zedd,1/23/2018,107,66,75,-3,44,3:05,17,85,5245
+116,Mañana No Hay Clase (24/7),Sebastian Yatra,10/24/2019,180,73,78,-3,82,3:22,2,75,3430
+117,Mala Fama,Danna Paola,3/28/2019,176,58,76,-4,82,3:02,20,75,8932
+118,Look What You Made Me Do,Taylor Swift,11/10/2017,128,71,77,-6,51,3:32,20,70,1178
+119,Loca (feat. Cali y El Dandee),Maite Perroni,5/12/2017,95,84,75,-3,64,3:54,11,67,4648
+120,The Less I Know The Better,Tame Impala,7/17/2015,117,76,64,-4,74,3:36,1,20,8609
+121,La Ventanita,Garibaldi,2010,125,84,91,-9,95,4:11,11,4,474
+122,La Chica Del Bikini Azul,Luis Miguel,9/14/2010,145,79,64,-6,75,3:00,4,48,7541
+123,LA CANCIÓN,J Balvin,6/28/2019,176,65,75,-6,43,4:03,15,93,8144
+124,La Boca,Mau y Ricky,5/3/2019,186,80,62,-2,76,3:26,7,82,5820
+125,La Bilirrubina - En Vivo Estadio Olímpico De República Dominicana/2012,Juan Luis Guerra 4.40,1/1/2013,138,98,59,-4,80,3:53,62,67,3841
+126,Into You,Ariana Grande,5/20/2016,108,73,62,-6,37,4:04,2,81,2178
+127,In the Name of Love,Martin Garrix,7/29/2016,134,52,50,-6,17,3:16,11,82,9822
+128,Instagram - R3HAB Remix,Dimitri Vegas & Like Mike,11/8/2019,123,86,44,-4,50,2:32,6,31,5838
+129,Hips Don't Lie (feat. Wyclef Jean),Shakira,11/28/2005,100,82,78,-6,76,3:38,28,81,7221
+130,Happier,Marshmello,8/17/2018,100,79,69,-3,67,3:34,19,90,1064
+131,Girls Like You (feat. Cardi B),Maroon 5,6/15/2018,125,54,85,-7,45,3:56,57,75,9386
+132,Girlfriend,Avril Lavigne,4/17/2007,164,96,56,-2,67,3:37,0,12,1011
+133,FRIENDS,Marshmello,2/9/2018,95,88,63,-2,53,3:23,21,85,435
+134,Esclavo de Tus Besos,Manuel Turizo,2/15/2019,91,67,81,-5,52,3:39,11,77,9111
+135,Enloquéceme,OV7,1997,107,92,81,-3,80,4:09,8,60,1774
+136,DONTTRUSTME,3OH!3,7/7/2008,130,71,79,-4,51,3:13,2,70,3410
+137,Detente,Mike Bahía,11/15/2019,172,59,74,-5,36,3:02,27,77,3792
+138,Desconocidos,Mau y Ricky,10/12/2018,174,77,71,-5,71,3:24,15,81,4208
+139,Créeme,KAROL G,11/2/2018,97,87,72,-4,68,3:32,15,78,7326
+140,Con Altura,ROSALÍA,3/28/2019,98,69,88,-4,75,2:42,39,89,9761
+141,Comerte Toda,Ghetto Kids,11/15/2019,180,85,62,-4,45,3:31,4,63,9406
+142,Celoso,Lele Pons,8/17/2018,166,70,75,-4,67,3:00,35,72,7054
+143,Bye Bye Bye,*NSYNC,10/21/2005,173,87,57,-4,81,3:20,2,60,5434
+144,Buena Vibra,Mario Bautista,12/6/2019,106,72,77,-5,69,2:39,3,60,1541
+145,Boomshakalaka,Dimitri Vegas & Like Mike,11/29/2019,96,82,73,-3,81,3:32,1,70,6940
+146,Bidi Bidi Bom Bom - 1994 Version,Selena,1994,180,53,58,-12,91,3:31,33,60,7678
+147,Believe,Cher,1998,133,92,65,-7,46,3:59,1,77,6829
+148,Bad Liar,Selena Gomez,5/18/2017,121,41,97,-6,73,3:35,19,75,2674
+149,bad guy,Billie Eilish,3/29/2019,135,43,70,-11,56,3:14,33,96,23
+150,Baby Girl (feat. Lalo Ebratt),Mario Bautista,8/17/2018,103,71,80,-5,45,3:38,3,77,8047
+151,Antes de Morirme (feat. Rosalía),C. Tangana,7/5/2016,98,50,87,-9,13,3:20,7,75,3825
+152,Amigos Con Derechos,Reik,5/31/2019,184,81,68,-3,61,3:47,5,80,9019
+153,Amiga Date Cuenta,Cubebass,6/29/2018,100,71,80,-10,33,2:46,1,60,2192
+154,Amantes,Greeicy,11/3/2017,92,68,80,-4,64,3:55,14,73,8317
+155,Alocao (With Bad Gyal),Omar Montes,10/24/2019,178,75,67,-5,70,3:29,21,84,9360
+156,Ahora Te Puedes Marchar,Luis Miguel,7/15/1987,133,88,78,-4,91,3:12,15,78,3921
+157,7 rings,Ariana Grande,2/8/2019,140,32,78,-11,33,2:59,59,92,3972
+158,1999,Charli XCX,9/13/2019,124,73,75,-5,63,3:09,2,67,2173
+159,Llorar,Los Socios Del Ritmo,1999,172,59,78,-7,96,3:43,6,70,500
+160,La Planta,Caos,9/12/2014,115,80,70,-6,65,4:06,2,72,5905
+161,Golpes En El Corazón,Los Tigres Del Norte,1/1/2011,113,74,49,-6,58,4:41,45,66,4430
+162,Los Caminos De La Vida,La Tropa Colombiana,9/17/2015,74,58,69,-7,90,4:54,46,51,3967
+163,Desvelado,Bobby Pulido,1/1/2008,174,67,67,-8,89,3:42,7,60,8384
+164,Así Es la Vida,Elefante,8/30/2002,98,67,80,-8,64,5:09,13,68,367
+165,Amargo Adiós,Inspector,1/1/2004,139,57,61,-8,78,3:50,19,69,2199
+166,Mis Sentimientos,Los Angeles Azules,2/25/2014,93,72,74,-5,80,3:37,21,48,567
+167,La Chica De Humo - MTV Unplugged,Emmanuel,10/27/2017,102,73,77,-6,27,4:59,9,74,934
+168,Mas de Lo Que Te Imaginas (Classic Version),The Sacados,5/4/2018,179,84,66,-7,75,3:39,6,66,5550
+169,Sergio el Bailador,Bronco,1985,90,67,79,-12,98,2:50,31,64,8370
+170,Te Aprovechas,Grupo Limite,6/6/1995,162,44,76,-12,87,3:08,13,59,1046
+171,Con Calma - Remix,Daddy Yankee,4/19/2019,94,87,74,-3,61,3:01,17,76,5563
+172,Por Mujeres Como Tu,Pepe Aguilar,2/20/2004,92,29,57,-8,36,4:21,86,69,1235
+173,Another One Bites The Dust - Remastered 2011,Queen,6/27/1980,110,53,93,-6,76,3:35,11,75,9848
+174,La Camisa Negra,Juanes,1/1/2005,97,73,75,-4,97,3:35,9,12,9193
+175,No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,5/10/2012,90,76,63,-5,81,3:55,35,66,5079
+176,Toda La Vida - MTV Unplugged,Emmanuel,10/27/2017,114,81,73,-5,66,4:41,5,60,455
+177,Saxofon - Original,Gio Silva,7/25/2018,128,96,88,-4,38,4:38,0,53,2771
+178,Para No Verte Más,La Mosca Tse-Tse,2000,99,82,66,-7,84,3:12,2,72,8384
+179,La Dosis Perfecta,Panteon Rococo,10/16/2015,155,77,67,-6,97,4:16,5,68,7733
+180,A Mi Que Me Quedo,Los Invasores De Nuevo León,1/1/1997,160,45,74,-12,87,2:41,5,64,1035
+181,Te Lo Pido por Favor,Jaguares,10/22/2002,106,66,65,-6,53,3:26,12,71,8314
+182,Suave,Luis Miguel,1993,104,68,61,-10,44,4:50,6,70,1336
+183,Mujeres,Ricardo Arjona,8/1/1989,106,63,76,-9,88,3:26,38,70,6101
+184,Que Bello,Sonora Tropicana,10/29/2011,204,47,66,-8,93,4:10,26,5,6979
+185,Viernes Sin Tu Amor,Vagon Chicano,1/1/2002,176,45,69,-8,85,3:32,40,65,1306
+186,Loco,Pesado,2/13/2001,136,71,77,-7,96,3:56,11,64,9118
+187,Cómo Estás Tú,Liberación,1/1/1992,93,76,65,-6,93,2:57,21,64,8467
+188,Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo,Bronco,3/24/2017,158,90,57,-7,83,3:41,41,56,9559
+189,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,9/28/2018,96,80,84,-4,62,3:33,16,84,9084
+190,Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,9/16/2014,123,89,76,-5,78,3:09,2,70,8069
+191,Rebota,Guaynaa,12/14/2018,180,91,80,-2,92,3:25,19,78,9431
+192,Tatuajes,Joan Sebastian,2/9/1996,101,53,78,-5,92,3:32,73,67,483
+193,La Puerta Negra,Los Tigres Del Norte,1/1/1989,108,54,69,-9,97,3:24,32,7,4903
+194,Mátalas,Alejandro Fernandez,2003,117,39,77,-7,80,2:57,71,60,5235
+195,Cielo Nublado Aka Cielo Nevado - En Vivo,Pesado,1/1/2009,106,57,67,-8,63,3:22,35,54,972
+196,Believer,Imagine Dragons,6/23/2017,125,78,78,-4,67,3:24,6,89,1776
+197,Soñé,Zoé,3/22/2011,83,48,62,-7,44,3:47,15,8,4493
+198,Corazón partío,Alejandro Sanz,11/19/2001,117,86,53,-7,50,5:00,58,61,8051
+199,Caldo De Pollo,Grupo Mojado,1/1/1996,95,59,85,-16,89,3:38,13,45,8124
+200,La Inconforme,Grupo G,6/4/2010,95,70,89,-6,62,3:10,13,59,4051
+201,Tiene Espinas El Rosal,Grupo Cañaveral De Humberto Pabón,1/1/1997,169,42,68,-11,82,3:58,3,70,5005
+202,Mentiras,Los Amigos Invisibles,5/26/2009,125,85,74,-4,89,3:21,1,14,4234
+203,Que No Quede Huella,Bronco,1989,79,66,72,-9,93,2:57,62,64,11
+204,La Carnita Asada,Mister Cumbia,12/8/2017,120,68,72,-11,77,2:43,1,39,4384
+205,Amigo Bronco - Remasterizado,Bronco,1990,157,75,71,-5,95,3:47,53,60,9021
+206,Laura no està,Nek,6/27/1997,126,72,65,-5,50,3:45,44,66,442
+207,De Música Ligera - Remasterizado 2007,Soda Stereo,10/9/1990,124,75,54,-6,80,3:33,0,74,8690
+208,Mi primer millon,Bacilos,6/25/2002,103,92,75,-4,91,3:57,20,71,5632
+209,Suavecito Suavecito,Laura Leon,1997,96,48,75,-11,92,3:46,67,62,5591
+210,Dr. Psiquiatra,Los Angeles Azules,6/8/2018,152,56,84,-5,83,3:22,12,60,4384
+211,Mil Horas,La Sonora Dinamita,4/28/2006,102,74,74,-7,84,3:45,10,5,7637
+212,Se Me Perdio La Cadenita,La Sonora Dinamita,2/1/2010,96,68,53,-9,72,2:37,3,62,8053
+213,Me Estoy Enamorando,La Mafia,1991,142,45,67,-10,43,3:24,44,62,7927
+214,Aunque No Me Quieras,Bronco,10/29/1993,76,60,78,-12,59,3:23,76,50,5945
+215,Diséñame,Joan Sebastian,5/22/2012,94,27,69,-8,61,3:06,76,68,7971
+216,Libros Tontos ( Primera Fila ) - En Vivo,Bronco,3/24/2017,120,89,66,-7,81,3:38,20,49,4874
+217,Mi Cómplice,Cardenales De Nuevo León,1/1/2014,99,67,79,-7,92,3:11,35,51,9678
+218,Maracas,Joan Sebastian,12/17/2001,93,57,70,-9,44,3:10,63,68,2700
+219,Tu Cárcel,Los Bukis,1/1/2003,100,61,82,-14,86,3:32,36,69,1972
+220,Mi Forma De Sentir,Pedro Fernández,1/1/1994,132,23,44,-13,27,4:05,62,63,9363
+221,"Feliz, Feliz",Mi Banda El Mexicano,8/19/1993,135,64,81,-10,98,3:38,11,64,3204
+222,Bella y Sensual,Romeo Santos,7/21/2017,180,71,64,-7,75,3:25,23,75,2788
+223,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofia Reyes,2/16/2018,95,90,79,-3,79,3:22,17,77,5506
+224,Flor De Capomo,Carlos Y Jose,1/1/1981,111,29,77,-15,94,2:49,9,60,9356
+225,Eslabón Por Eslabón,Los Invasores De Nuevo León,1/1/1982,112,55,87,-10,96,3:03,12,54,1582
+226,Probablemente,Christian Nodal,8/25/2017,160,49,59,-5,60,3:54,39,74,8763
+227,Vete Ya,Valentín Elizalde,1/1/2003,88,32,81,-14,76,2:38,50,71,8247
+228,Tragos Amargos,Ramon Ayala Y Sus Bravos Del Norte,1/1/1991,79,26,72,-13,55,2:41,41,53,1090
+229,Aguanta Corazón,Los Invasores De Nuevo León,1/1/1982,104,50,88,-11,96,2:17,18,53,4031
+230,Secreto De Amor,Joan Sebastian,2/20/2004,97,48,57,-7,62,4:33,76,60,8250
+231,Culpable O No - Miénteme Como Siempre,Luis Miguel,11/25/1988,70,37,54,-14,25,3:57,4,75,9400
+232,La Incondicional,Luis Miguel,11/25/1988,155,73,37,-4,28,4:17,24,77,1271
+233,Tengo Todo Excepto A Ti,Luis Miguel,1/1/1990,148,67,54,-8,42,4:33,52,10,5023
+234,Hasta Que Me Olvides,Luis Miguel,1993,120,59,64,-8,44,4:41,46,74,7171
+235,Por Debajo De La Mesa,Luis Miguel,12/2/2005,144,50,40,-8,26,3:04,22,66,8129
+236,Un Hombre Busca a Una Mujer,Luis Miguel,12/2/2005,98,70,62,-12,78,3:35,39,64,6319
+237,Inolvidable,Luis Miguel,11/19/1991,97,67,69,-7,85,4:18,42,64,9672
+238,Enamorado,Liberación,1/1/2011,194,60,58,-7,96,2:44,37,21,7861
+239,Juana La Cubana,Liberación,1/1/2011,174,77,71,-6,93,3:24,45,36,2850
+240,Cumbia Con La Luna,Control,1/1/2008,105,81,82,-5,87,3:35,24,48,8772
+241,Cumbia De La Cobra,Fito Olivares y Su Grupo,2000,98,74,74,-7,92,3:19,5,54,3716
+242,El Gran Varon,Cumbia Vallenata,1/1/2011,192,87,69,-5,68,4:09,17,27,6458
+243,Mira oye,Los Tigrillos,3/5/2001,104,74,85,-5,87,3:22,10,51,7168
+244,"Tao, Tao",Control,1/1/1999,103,85,85,-6,95,2:53,23,58,2436
+245,Agüita De Melón,Fito Olivares y Su Grupo,1999,181,79,71,-13,96,3:05,18,48,7497
+246,Azúcar,A.B. Quintanilla III Y Los Kumbia Kings,7/1/2016,98,63,84,-6,95,3:29,36,46,2548
+247,Hasta La Miel Amarga,Los Tiranos Del Norte,1/20/1993,153,59,60,-9,75,3:35,28,9,7048
+248,Chaparra De Mi Amor,Ramon Ayala Y Sus Bravos Del Norte,1976,112,59,72,-5,82,3:10,54,59,4593
+249,Amor Prohibido,Grupo Bryndis,1/1/2012,164,79,72,-6,93,3:45,38,23,6431
+250,La Ultima Canción,Grupo Bryndis,1/1/2008,82,60,71,-9,71,4:18,31,51,4909
+251,La Chica Que Soñé,Tropical Panamá,1/1/2012,177,54,72,-8,83,3:09,29,31,206
+252,Cuando Volverás Amor,Tropical Panamá,1/1/2005,84,69,66,-6,96,2:53,60,50,8921
+253,Ni Que Valieras Tanto,El Poder Del Norte,2/24/2015,92,77,67,-7,68,3:36,28,41,9475
+254,Belleza De Cantina,Cardenales De Nuevo León,1/1/2005,96,62,76,-7,80,3:01,33,70,2020
+255,Ay Esther,Los Tigrillos,3/4/2007,91,69,89,-8,96,3:17,14,23,3972
+256,El Pachuco,Los Garcia Bros.,2/26/2014,97,88,64,-5,90,3:34,40,30,4225
+257,Estos Celos,Vicente Fernández,8/26/2007,105,32,75,-8,39,3:10,69,63,8698
+258,La Célula Que Explota,Caifanes,6/19/1990,123,48,43,-12,28,3:36,44,72,5785
+259,La Carcacha,Selena,1/1/1993,182,65,67,-11,89,4:10,16,48,6457
+260,Ay! Papacito,Grupo Limite,1/1/2002,172,74,71,-6,95,3:47,13,51,6579
+261,Persiana Americana - Remasterizado 2007,Soda Stereo,6/28/2007,101,92,60,-5,55,4:52,1,70,6261
+262,Bomboro Quiñá Quiñá,La Sonora Santanera,1950,114,33,80,-13,77,2:42,79,0,2844
+263,Celoso,Grupo Toppaz De Reynaldo Flores,1/1/1990,85,65,65,-8,80,2:49,36,52,5295
+264,Yo Sin Tu Amor,Grupo Limite,6/6/1995,166,53,76,-10,69,2:58,29,53,3563
+265,Morena mía,Miguel Bosé,11/6/2001,80,68,71,-7,87,4:51,19,69,7577
+266,Tu Traición,Grupo Bryndis,1/1/1995,85,68,73,-9,95,3:34,20,61,5812
+267,Cumbia poder,Celso Piña,3/19/2001,105,79,73,-6,97,5:01,1,58,6009
+268,El Rey,Vicente Fernández,1972,81,41,50,-6,47,2:37,38,62,1380
+269,Playa Sola,Los Invasores De Nuevo León,1/1/1993,105,65,78,-10,97,2:56,24,61,8332
+270,A Ella,El Poder Del Norte,2001,93,60,71,-9,85,3:46,39,60,9508
+271,Y Por Esa Calle Vive,Los Baron De Apodaca,1/1/2009,100,51,68,-9,64,3:37,46,51,2055
+272,Abrazado de un Poste,Lorenzo De Monteclaro,1978,167,58,45,-9,92,2:33,90,56,670
+273,Eres Mi Droga,Intocable,1/1/1997,188,70,64,-10,96,3:27,23,59,7297
+274,Para Qué Me Engaño,El Poder Del Norte,1/1/1998,96,53,79,-9,85,3:50,21,54,6776
+275,Se Preparó,Ozuna,8/25/2017,171,82,74,-4,69,3:08,22,77,5791
+276,Calma - Remix,Pedro Capó,10/5/2018,127,77,83,-4,76,3:58,32,87,2349
+277,Reggaeton,J Balvin,11/17/2018,176,74,75,-4,55,2:39,2,79,2989
+278,El Color de Tus Ojos,Banda Sinaloense MS de Sergio Lizárraga,4/21/2017,124,34,77,-9,86,3:23,28,77,3529
+279,Jefe De Jefes,Los Tigres Del Norte,1/1/1997,111,62,77,-8,96,3:33,51,6,8674
+280,Ya Es Muy Tarde,La Arrolladora Banda El Limón De Rene Camacho,1/1/2009,108,65,68,-4,95,3:01,45,69,4823
+281,Y Llegaste Tú,Banda El Recodo,1/1/2008,123,69,66,-3,97,3:16,76,63,9502
+282,Háblame de Ti,Banda Sinaloense MS de Sergio Lizárraga,6/24/2014,145,55,78,-5,85,3:11,62,7,7641
+283,Acá Entre Nos,Banda El Recodo,3/31/2014,90,40,54,-5,88,3:10,77,52,5169
+284,Te Metiste,Ariel Camacho y Los Plebes Del Rancho,9/23/2014,152,44,71,-5,81,3:29,66,67,4069
+285,Llamada De Mi Ex,La Arrolladora Banda El Limón De Rene Camacho,1/1/2011,134,60,61,-5,49,3:09,52,55,95
+286,Mi Gusto Es,La Arrolladora Banda El Limón De Rene Camacho,1/27/2004,106,45,62,-9,97,2:35,67,46,7936
+287,Adios Amor,Christian Nodal,4/14/2016,89,43,60,-5,73,3:21,32,1,4684
+288,Me Dueles,Intocable,9/15/2018,95,79,55,-7,74,3:41,17,57,8586
+289,El Amor de Mi Vida,La Adictiva Banda San José de Mesillas,4/5/2019,130,50,69,-7,79,3:33,3,75,4524
+290,Oye Mi Amor,Maná,1992,162,90,54,-7,96,4:23,1,72,3594
+291,La Carencia,Panteon Rococo,12/1/2005,103,92,56,-6,45,7:03,25,67,3495
+292,Lamento Boliviano,Los Enanitos Verdes,1/1/1994,124,74,71,-7,68,3:42,18,77,6330
+293,La Muralla Verde,Los Enanitos Verdes,1986,130,86,72,-6,89,2:42,7,74,2105
+294,Clavado En Un Bar,Maná,10/10/1997,148,85,63,-3,56,5:11,1,74,3125
+295,De Música Ligera,Soda Stereo,4/27/1999,124,60,55,-11,80,3:37,0,9,9739
+296,Afuera,Caifanes,1994,126,55,49,-11,70,4:49,21,73,738
+297,Me Vale,Maná,1992,167,93,53,-5,75,4:31,0,61,8532
+298,Cuando Seas Grande,Miguel Mateos,6/7/2001,149,95,35,-7,41,6:09,5,4,6966
+299,La Lola,Café Quijano,6/18/1999,152,79,73,-4,87,3:17,6,67,4088
+300,En algún lugar,Duncan Dhu,1/17/1987,74,86,53,-7,44,3:56,18,71,524
+301,La flaca,Jarabe De Palo,6/23/2006,103,48,87,-9,66,4:21,52,69,915
+302,Todas Mueren por Mí,Cartel De Santa,5/22/2007,92,70,90,-7,61,3:42,3,68,8866
+303,Si Te Vienen a Contar,Cartel De Santa,8/5/2014,167,66,73,-6,85,3:40,34,72,2577
+304,Leve,Cartel De Santa,11/18/2016,178,80,66,-4,68,3:45,19,73,6694
+305,Los Mensajes del Whatsapp,Cartel De Santa,8/5/2014,129,78,81,-5,93,3:33,71,70,4436
+306,Hey Si Me Ven,Cartel De Santa,2007,88,30,91,-8,26,3:43,8,64,8626
+307,Como La Flor - Remastered,Selena,1/1/2010,182,66,60,-5,87,3:03,15,57,225
+308,Bidi Bidi Bom Bom,Selena,1/1/2010,180,72,57,-6,93,3:08,10,63,6452
+309,El Chico Del Apartamento 512,Selena,3/31/2015,102,71,76,-9,92,3:29,46,54,9127
+310,Fuiste Mala,A.B. Quintanilla III Y Los Kumbia Kings,1/1/1999,172,66,71,-6,92,3:20,38,56,111
+311,Te Quiero A Tí,A.B. Quintanilla III Y Los Kumbia Kings,7/1/2016,168,54,72,-8,89,3:17,51,47,7584
+312,Sshh!!,A.B. Quintanilla III Y Los Kumbia Kings,7/1/2016,184,74,75,-4,88,3:50,44,41,4392
+313,Boom Boom,A.B. Quintanilla III Y Los Kumbia Kings,7/1/2016,98,59,87,-5,22,4:14,13,43,8053
+314,La Bomba,azul azul,2000,94,77,92,-7,96,2:04,12,63,5003
+315,La Bomba,Ricky Martin,2/10/1998,99,95,72,-6,85,4:34,8,54,6727
+316,Bombón Asesino,Ninel Conde,10/27/2017,172,80,75,-1,82,3:30,11,1,690
+317,Cómo Te Voy A Olvidar,Los Angeles Azules,1/1/2005,83,51,61,-7,67,4:28,16,64,5092
+318,Y Como Es El,Cardenales De Nuevo León,1/1/2004,102,38,70,-7,95,2:51,69,53,4183
+319,Amnesia,Inspector,1/1/2006,145,74,51,-5,74,4:02,34,43,3999
+320,Devuélveme a mi chica,Hombres G,3/26/1999,172,95,59,-5,42,3:15,1,67,1855
+321,Popurri de Selena,Calor Norteño,2/1/2018,97,68,85,-9,85,9:55,10,47,8183
+322,Amor Secreto,Los Angeles De Charly,1/1/2009,160,71,57,-2,88,3:09,28,50,4554
+323,Me Vas A Recordar,Los Angeles De Charly,1/1/2009,78,60,64,-5,76,3:02,11,47,3737
+324,Como Un Trueno,Ilegales,11/11/1997,130,95,83,-7,93,4:06,19,54,6157
+325,La Morena,Ilegales,11/21/1995,127,96,89,-6,83,4:24,10,50,9692
+326,El Taqui Taqui - Original Mix,Ilegales,11/11/1997,133,95,83,-7,93,4:23,2,54,32
+327,El Trueno - Live,Ilegales,10/27/2014,130,87,68,-6,74,4:21,13,25,9417
+328,Rebotando,Ilegales,11/11/1997,132,91,81,-7,81,4:04,4,30,9938
+329,Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio,Eiffel 65,1/5/2011,128,97,82,-11,77,4:44,26,75,1485
+330,Mi Mayor Anhelo,Banda Sinaloense MS de Sergio Lizárraga,1/1/2012,150,55,59,-3,59,3:32,29,66,6639
+331,Mi Olvido,Banda Sinaloense MS de Sergio Lizárraga,1/1/2011,126,45,80,-5,78,3:38,33,68,9953
+332,El Patrón,Banda Sinaloense MS de Sergio Lizárraga,1/1/2011,160,63,67,-4,96,2:20,66,59,937
+333,Por Este Amor,Banda Sinaloense MS de Sergio Lizárraga,6/24/2014,73,33,68,-7,63,3:45,86,67,4642
+334,Te Quiero Así,Valentín Elizalde,4/18/2006,94,55,78,-5,98,2:51,61,63,6303
+335,X - Remix,Nicky Jam,6/29/2018,180,70,66,-5,74,3:56,6,75,5180
+336,Gavilán o Paloma,José José,5/7/1977,126,45,54,-11,38,4:10,57,69,6158
+337,Mi Credo,K-Paz De La Sierra,1/1/2008,130,72,72,-6,97,3:02,66,59,531
+338,Con El Corazón En La Mano,Liberación,1/1/1992,83,75,72,-7,73,3:18,38,54,575
+339,Si Estuvieras Conmigo - Dueto Con Grupo Bryndis,Liberación,1/1/2007,82,72,54,-5,73,2:41,57,58,1960
+340,Estrellita,Los Reyes Del Camino,1/1/2005,91,69,71,-5,81,3:22,23,31,913
+341,Notas De Sociedad,Los Mier,1/1/2004,92,80,73,-7,93,3:01,12,48,2857
+342,Dame Felicidad,Grupo Toppaz De Reynaldo Flores,1/1/1992,167,58,61,-7,92,2:55,52,26,552
+343,La Coloreteada,Los Mier,1/1/2012,176,76,51,-8,86,3:24,11,33,8115
+344,Como Quien Pierde una Estrella,Alejandro Fernandez,1995,163,35,44,-11,57,3:34,64,59,5038
+345,Un Idiota,Joan Sebastian,2/20/2004,85,39,59,-9,34,3:19,52,64,5444
+346,Si No Te Hubieras Ido,Marco Antonio Solís,1999,95,55,74,-8,46,4:48,16,68,7755
+347,Algo Me Gusta De Ti,Wisin & Yandel,1/1/2012,128,77,63,-5,24,4:35,0,71,4915
+348,Danza Kuduro,Don Omar,1/1/2010,89,92,40,-5,88,3:19,8,76,4615
+349,Y Ahora Resulta,Voz De Mando,1/1/2012,150,51,83,-5,85,3:24,29,66,5997
+350,Sexy Movimiento,Wisin & Yandel,1/1/2007,105,76,82,-6,73,3:30,38,68,8428
+351,No Lo Trates,Pitbull,4/26/2019,104,81,83,-3,83,3:18,6,79,3115
+352,Gasolina,Daddy Yankee,7/13/2004,96,80,86,-6,75,3:13,33,78,6452
+353,Mis Ojos Lloran Por Ti,Big Boy,1/1/2006,172,83,79,-9,33,4:56,1,73,2854
+354,No Voy a Trabajá,Bermudas,12/9/2002,115,98,87,-2,63,3:18,12,41,2923
+355,Noreste Caliente,A Band of Bitches,7/2/2012,132,73,88,-8,84,3:15,20,2,1365
+356,Arsénico,DLD,9/18/2012,138,91,56,-4,79,3:16,1,61,2329
+357,Todo Cuenta,DLD,9/18/2012,154,92,49,-4,54,3:52,3,65,539
+358,Verde Mas Allá,Jenny And The Mexicats,9/26/2013,162,61,73,-7,91,3:29,8,0,7007
+359,El Listón de Tu Pelo - En Vivo Concierto Sinfónico Cumbia Fuzión by Fuze Tea,Los Angeles Azules,2/25/2014,82,78,32,-5,55,4:27,17,39,6185
+360,Es Mejor Así (feat. Reik) - Primera Fila - Live Version,Cristian Castro,4/1/2013,137,84,66,-5,68,3:38,4,63,8711
+361,Baila Conmigo,Dayvi,3/12/2019,128,96,74,-5,58,3:11,1,12,9945
+362,Hermoso Cariño,Vicente Fernández,12/13/1993,154,43,34,-6,41,2:37,61,67,8180
+363,La Mesa Del Rincón,Los Tigres Del Norte,1/1/1994,114,53,81,-11,97,3:24,32,62,9196
+364,Enséñame A Olvidarte,Intocable,1/1/2000,172,82,43,-6,72,3:22,53,60,3653
+365,Volver Volver,Vicente Fernández,8/27/1972,165,35,36,-10,47,2:59,39,66,2666
+366,Lo Intentamos,Espinoza Paz,6/1/2009,138,50,73,-7,64,3:17,54,62,9565
+367,Al Diablo Lo Nuestro (Album Version),Espinoza Paz,11/13/2017,140,36,81,-8,50,4:02,14,48,40
+368,El Próximo Viernes,Espinoza Paz,4/25/2018,136,43,78,-6,72,4:12,70,54,9575
+369,Tonta,Diego Verdaguer,11/24/2017,96,76,81,-6,75,3:26,7,66,776
+370,La Ladrona (Intro) - En Vivo,Diego Verdaguer,12/6/2011,100,73,66,-12,76,4:29,4,26,1631
+371,Mentiras Bonitas - En Vivo,Diego Verdaguer,12/6/2011,118,34,68,-13,65,2:55,34,28,280
+372,La Calle De Las Sirenas,Kabah,1/1/1996,105,80,69,-12,83,3:56,7,69,8396
+373,Arréglame el Alma - En Vivo,Panteon Rococo,6/24/2016,165,92,53,-9,49,4:40,1,65,4720
+374,La Dosis Perfecta - En Vivo,Panteon Rococo,6/24/2016,166,83,38,-9,57,6:08,5,55,9716
+375,Vendedora de Caricias - En Vivo,Panteon Rococo,6/24/2016,136,58,51,-11,41,5:55,41,53,9881
+376,Que Es Lo Que Pasa,Nelson Kanzela,6/10/2014,172,63,74,-5,94,4:17,30,48,5841
+377,Ay Que Chupar,Nelson Kanzela,6/14/2014,145,85,77,-7,83,2:59,17,41,7003
+378,Enseñame,Nelson Kanzela,6/10/2014,172,81,69,-7,86,3:35,30,42,550
+379,Te Va a Doler,Maelo Ruiz,10/27/2003,178,85,61,-4,74,4:53,41,70,3865
+380,Lluvia,Eddie Santiago,1/1/2006,165,69,65,-9,83,4:58,41,6,5133
+381,Ven devorame otra vez (Salsa),Lalo Rodriguez,11/3/2010,85,74,72,-6,97,5:14,65,58,4060
+382,Fabricando Fantasías - Salsa Version,Tito Nieves,2004,91,86,73,-3,93,4:32,24,64,5948
+383,La Pantera Mambo,La-33,12/4/2004,100,79,78,-6,82,6:15,47,52,7919
+384,Suavemente,Elvis Crespo,7/21/2008,124,88,81,-3,92,4:26,24,68,4113
+385,Sobredosis,Alberto Barros,2/1/2014,171,82,66,-4,92,4:08,21,54,6048
+386,La rebelion,Joe Arroyo,5/12/2007,108,76,57,-8,88,6:16,14,69,6507
+387,Yo Quiero Chupar,Super Lamas,1/2/2018,94,79,73,-7,80,3:56,33,50,8795
+388,Mambo No. 5 (A Little Bit of...),Lou Bega,5/31/2002,174,80,61,-7,90,3:40,11,19,1555
+389,Directo Al Corazon,Pepe Aguilar,2/20/2004,183,28,30,-8,29,3:19,87,66,2713
+390,Le Hace Falta Un Beso,El Chapo De Sinaloa,2/5/2014,102,25,79,-9,73,2:48,33,68,7012
+391,Pero Te Vas A Arrepentir,K-Paz De La Sierra,1/1/2003,130,72,71,-4,97,3:13,52,51,9973
+392,Nube Viajera,Alejandro Fernandez,1996,109,30,62,-10,48,4:04,49,55,1482
+393,No Me Conoces Aún,Palomo,1/1/2008,162,56,68,-8,56,3:42,13,57,1857
+394,Amarte A La Antigua,Pedro Fernández,1/1/2009,144,30,46,-12,39,3:39,75,61,6095
+395,No Hay Novedad,Los Cadetes De Linares,4/25/2016,184,43,52,-9,89,3:05,57,66,1549
+396,17 Años,Los Angeles Azules,1/1/1999,91,48,74,-9,77,3:01,47,59,2051
+397,Para Que Regreses,El Chapo De Sinaloa,1/1/2004,174,52,77,-4,95,3:15,74,61,9080
+398,Hermosa Experiencia,Banda Sinaloense MS de Sergio Lizárraga,10/1/2013,113,57,84,-6,98,2:33,45,66,2059
+399,Te Presumo,Banda El Recodo,1/1/2008,145,47,60,-6,70,3:13,68,67,6982
+400,A chillar a otra parte,Pesado,9/20/2005,168,77,47,-7,94,3:21,21,61,3780
+401,Me Dediqué a Perderte,Alejandro Fernandez,9/1/2004,148,44,64,-9,47,3:52,49,79,8456
+402,De Qué Manera Te Olvido,Vicente Fernández,1978,100,45,50,-6,46,2:52,82,61,9825
+403,El Tucanazo,Los Tucanes De Tijuana,1/1/2002,146,65,82,-14,99,2:54,2,54,5280
+404,Baila Esta Cumbia,Selena,1/1/2010,183,80,71,-5,79,2:42,52,64,7863
+405,El Gigante De Hierro,Grupo Sonador,2/25/2003,90,63,87,-11,86,3:36,10,60,9884
+406,El Amar y el Querer,José José,5/7/1977,66,37,42,-12,17,3:55,75,71,990
+407,Escándalo,Margarita la diosa de la cumbia,10/26/2010,100,57,92,-6,92,4:49,4,60,165
+408,Mi Vida Eres Tú,Los Temerarios,6/1/1992,88,38,64,-12,47,4:10,35,66,5609
+409,Un Millon de Rosas,La Mafia,1991,86,56,76,-8,91,3:29,21,59,959
+410,Me llamo Raquel,Banda Machos,5/28/2001,178,74,62,-5,96,2:48,17,65,2618
+411,Que Te Ruegue Quien Te Quiera,Banda El Recodo,1/1/2003,128,51,72,-7,97,3:06,89,57,1563
+412,El Colesterol,Fito Olivares y Su Grupo,11/12/2012,90,65,72,-7,96,2:26,39,50,9871
+413,El Ruido De Tus Zapatos,La Arrolladora Banda El Limón De Rene Camacho,1/1/2013,136,50,73,-8,85,4:26,40,62,7133
+414,Procura,ChiChi Peralta,7/1/1997,102,76,81,-7,97,4:31,28,62,9123
+415,Corazon Espinado (feat. Mana),Santana,6/15/1999,120,79,70,-5,96,4:35,13,63,5163
+416,Ámame Hasta Con los Dientes (En Vivo),Timbiriche,12/8/2017,155,93,57,-3,62,2:53,2,38,8971
+417,Muriendo Lento (En Vivo),Timbiriche,12/8/2017,102,74,54,-6,40,4:15,40,35,9604
+418,Si No Es Ahora (En Vivo),Timbiriche,12/8/2017,144,93,54,-4,48,3:50,3,37,4898
+419,Tú y Yo Somos Uno Mismo (En Vivo),Timbiriche,12/8/2017,135,83,59,-5,15,3:27,10,38,357
+420,Con Todos Menos Conmigo (En Vivo),Timbiriche,12/8/2017,115,77,53,-5,54,3:54,26,38,7188
+421,Banana,Garibaldi,6/7/2019,120,89,81,-5,83,4:01,46,46,3535
+422,La Ventanita,Garibaldi,1/1/1994,125,85,92,-9,96,4:11,10,59,3667
+423,Callaita,Bad Bunny,5/31/2019,176,62,61,-5,24,4:11,60,93,3212
+424,Oye Mi Canto,N.O.R.E.,1/1/2004,96,94,70,-3,95,4:01,17,56,1477
+425,La Gota Fría,Carlos Vives,1993,101,81,72,-10,96,3:35,9,66,616
+426,Perdóname,La Factoria,1/1/2007,95,82,67,-6,41,4:02,24,67,7177
+427,Caraluna,Bacilos,6/25/2002,103,77,76,-5,90,4:26,18,73,8066
+428,Dormir Soñando,El Gran Silencio,1/1/1998,113,93,70,-7,78,3:07,11,59,8025
+429,Las Manos Arriba - Original Mix,Speed Fire,5/31/2014,129,89,82,-4,91,4:34,6,22,9828
+430,Medley Bobby Pulido,Grupo Cañaveral De Humberto Pabón,1/1/2012,89,70,71,-4,77,4:08,40,32,7213
+431,Medley Los Mier,Grupo Cañaveral De Humberto Pabón,1/1/2012,92,73,79,-4,66,4:19,20,29,174
+432,Aunque no sea conmigo,Bunbury,4/14/2015,86,72,46,-6,46,3:33,46,72,8718
+433,Un Osito de Peluche de Taiwan - En Vivo,Los Auténticos Decadentes,2008,101,78,54,-7,44,4:05,1,37,9085
+434,Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged,Los Auténticos Decadentes,10/5/2018,116,64,59,-8,79,4:09,40,76,919
+435,Se Me Olvidó Otra Vez - Unplugged,Maná,5/14/1999,103,93,70,-5,83,3:42,31,65,5390
+436,Los Malaventurados No Lloran - MTV Unplugged,PXNDX,1/1/2010,174,94,41,-7,64,3:59,5,57,9995
+437,Seguimos Laborando,Grupo 360,5/9/2019,90,64,82,-8,91,3:26,26,72,6834
+438,Fondo Fondo,Lupillo Rivera,10/17/2013,130,64,81,-6,86,3:02,39,40,7693
+439,Cómo Olvidarla,La Firma,3/20/2007,144,61,72,-9,91,3:41,35,53,8691
+440,La Llamada,La Firma,3/22/2011,137,63,40,-8,33,6:02,67,39,4078
+441,Olvídala,Binomio de Oro de América,1/1/2005,132,74,54,-5,66,5:05,13,62,9236
+442,Algo De Mí,Conjunto Primavera,2006,92,81,65,-2,87,3:56,46,66,1997
+443,Necesito Decirte,Conjunto Primavera,1/1/2014,145,60,64,-7,38,3:43,3,59,3993
+444,Te Lloré,Conjunto Primavera,1/1/2014,136,57,60,-6,35,3:37,8,54,5557
+445,Ese,Conjunto Primavera,1/1/2006,144,58,61,-7,44,3:58,21,52,314
+446,Vete a Buscar Aquel,Un Nuevo Oro,11/26/2018,78,78,41,-7,76,3:37,18,36,4248
+447,Llore,Un Nuevo Oro,11/26/2018,156,78,64,-7,74,4:01,23,28,9573
+448,Pintame,Un Nuevo Oro,11/26/2018,156,70,66,-7,82,3:38,21,23,7245
+449,Quiero Que Me Abraces,Un Nuevo Oro,11/26/2018,78,82,59,-7,66,3:50,32,25,8938
+450,Alguien Te Va A Hacer Llorar,Intocable,1/1/2005,125,59,72,-8,92,4:09,39,67,581
+451,Mayonesa,Alberto Barros,11/24/2014,190,93,60,-6,96,3:47,12,24,8841
+452,Macarena,Alberto Barros,11/24/2014,102,87,67,-6,96,3:42,17,21,5828
+453,Medley La Mafia,Grupo Cañaveral De Humberto Pabón,1/1/2012,86,68,68,-4,80,4:59,33,27,2907
+454,Medley Bronco,Grupo Cañaveral De Humberto Pabón,1/1/2012,85,75,57,-4,80,5:02,35,27,9638
+455,Fantasia,Costumbre,2/15/2005,152,83,64,-4,89,2:36,14,54,2280
+456,Medley Rigo Tovar,Grupo Cañaveral De Humberto Pabón,1/1/2012,95,66,55,-4,87,3:47,28,28,8000
+457,Cosas del Amor,Grupo Pegasso,9/17/2012,85,57,63,-8,78,3:20,26,57,4781
+458,¿Qué Hubiera Sido De Mi Vida?,Duelo,2002,144,63,75,-8,94,3:13,33,56,371
+459,Luna,David Olivarez,12/9/1998,168,64,69,-8,82,3:41,4,39,8622
+460,Y Te Lo Pido,David Olivarez,12/18/2012,172,78,47,-10,62,5:15,6,48,3738
+461,Medley Norteño,Grupo Cañaveral De Humberto Pabón,1/1/2012,92,70,80,-4,95,4:41,43,22,375
+462,Ramito De Violetas,Mi Banda El Mexicano,8/19/1993,125,59,89,-12,85,3:33,0,71,7999
+463,Medley Limite,Grupo Cañaveral De Humberto Pabón,1/1/2012,172,65,65,-5,83,5:10,38,23,9191
+464,La Dieta,Los Tigres Del Norte,1/1/1991,199,75,65,-5,98,2:36,64,0,3773
+465,El Celular,Los Tigres Del Norte,1/1/2007,130,61,88,-5,89,2:51,55,20,4387
+466,Directo Al Corazón,Los Tigres Del Norte,1/1/2007,100,70,77,-4,36,3:28,19,26,3030
+467,Feel Good Inc.,Gorillaz,5/23/2005,139,71,82,-7,77,3:43,1,82,904
+468,Clint Eastwood,Gorillaz,3/26/2001,168,69,66,-9,52,5:41,2,75,1321
+469,Despacito,Luis Fonsi,2/1/2019,178,80,66,-5,84,3:49,20,80,4222
+470,La pachanga,Vilma Palma e Vampiros,7/8/2003,105,92,68,-5,55,4:42,0,65,4750
+471,Capitán (feat. Aleks Syntek) - En Vivo,Calo,7/7/2017,130,91,78,-7,84,3:41,8,46,140
+472,Otra Vez,Victor Garcia,6/17/2003,96,56,74,-8,74,3:41,15,59,4135
+473,Formas De Amor,Calo,2/25/1997,95,81,76,-8,90,4:00,2,48,8395
+474,Te Regalo,Ulices Chaidez,10/21/2016,137,44,69,-7,70,3:15,80,68,1028
+475,Me Dejé Llevar,Christian Nodal,8/25/2017,138,38,65,-5,70,3:01,23,70,1172
+476,Se Murió De Amor,Bobby Pulido,1/1/1996,160,70,53,-3,82,3:06,39,63,3558
+477,Príncipe Azul,Liberación,1/1/1991,95,64,60,-7,79,2:56,47,37,7702
+478,Fuiste Tú,Dezigual,11/18/2016,166,70,51,-6,96,3:40,55,40,6547
+479,Ron Y Coca Cola,Mister Chivo,1/1/1995,202,55,47,-10,66,3:15,32,39,8445
+480,Algo En Ti,La Leyenda,10/4/2011,78,54,69,-8,80,4:07,46,49,5764
+481,Ella Es Así,Emilio Navaira,1/1/1997,81,64,75,-7,94,3:57,16,48,5339
+482,Estúpido Romántico,Mazz,1/1/1995,176,60,61,-9,73,4:35,60,40,4596
+483,Adolescente y Bonita,Grupo Pegasso,9/17/2012,96,40,70,-11,94,3:09,31,51,280
+484,Falsa Traición,Sonido Mazter,1/1/2009,93,76,75,-4,78,3:25,23,46,874
+485,Cuanto te amo,Costumbre,3/25/2003,140,55,73,-8,93,3:56,12,50,8362
+486,La Mujer del Pelotero,Merenglass Grupo,3/30/2011,150,91,89,-3,97,3:19,35,58,5335
+487,Cómo Le Haré,Emilio Navaira,1/1/1997,102,76,85,-8,97,3:38,7,47,2545
+488,Llegaste Tú,Liberación,1/1/1993,169,75,46,-9,83,3:16,33,45,1069
+489,Ojalá Te Animes,Bobby Pulido,1/1/2005,174,78,82,-8,97,3:01,5,53,7168
+490,Ese Loco Soy Yo,Liberación,1/1/1993,132,56,59,-8,27,4:40,7,62,4978
+491,Soy De La Calle,"Arnulfo Jr. ""Rey Y As""",1/1/2001,82,64,75,-8,84,3:38,21,52,6723
+492,Amiga Mía,Grupo Azteka,1/1/2010,84,63,54,-7,70,3:18,42,37,2469
+493,Te Fallé,Christian Nodal,8/25/2017,162,45,57,-5,51,3:51,32,71,5704
+494,Ayer Te Pedí,Victor Garcia,11/24/2006,94,62,68,-4,48,3:53,65,66,1159
+495,Invisible,Victor Garcia,6/17/2003,155,39,43,-9,61,3:06,67,49,6676
+496,Mi bom bon,Margarita la diosa de la cumbia,10/26/2010,100,92,72,-7,83,3:59,14,49,5032
+497,La Fuerza Del Destino,Liberación,1/1/1992,83,72,71,-6,69,3:09,41,50,7638
+498,Dicen por Ahi,Negami,5/1/2002,182,74,61,-7,78,4:02,51,47,4479
+499,Cumbia sobre el río / Interludio,Celso Piña,3/19/2001,97,82,71,-6,86,5:43,2,63,1012
+500,La Carta Que Nunca Envie,Los Palominos,1991,167,68,76,-7,97,3:06,18,48,739
+501,Esta Pega'o,Proyecto Uno,1/1/1999,131,55,87,-13,52,4:45,1,40,2089
+502,Tiburon,Proyecto Uno,1997,130,72,88,-13,89,5:03,15,57,4832
+503,A Nadie Como Tú,La Leyenda,10/4/2011,169,67,67,-7,93,3:38,17,39,2876
+504,Será Que No Me Amas - En Vivo,Luis Miguel,10/13/1995,114,99,69,-5,26,4:36,28,61,4405
+505,Por Qué Tuvo Que Ser,El Poder Del Norte,2001,79,52,70,-9,88,3:48,56,45,2076
+506,El Cometa,Los Garcia,1999,94,91,63,-5,97,3:44,13,37,6098
+507,El Amor No Acaba,Duelo,2002,145,56,68,-7,85,3:39,20,55,8419
+508,Tambalea,Grupo Pegasso,9/17/2012,90,58,59,-13,93,2:26,73,48,9524
+509,Vas A Sufrir,Grupo Bryndis,1/1/2001,80,59,65,-9,80,3:44,30,52,6921
+510,Dile,Pesado,2/13/2001,146,67,74,-8,92,3:23,13,44,5531
+511,"Te Quiero, Te Amo",David Lee Garza,1/1/2001,172,65,74,-12,95,3:28,18,48,4205
+512,Yo No Fui,Big Circo,1/1/2002,150,74,74,-3,97,3:00,53,44,5482
+513,Estoy Enamorada De Ti,Salomón Robles Y Sus Legendarios,1/1/2013,85,75,76,-7,96,3:10,14,45,6543
+514,La Güera Salome,Fito Olivares y Su Grupo,1999,97,69,73,-11,81,3:10,30,37,3626
+515,La Maquinita,Big Circo,1/1/2002,200,85,71,-5,84,3:59,7,40,1746
+516,"El Perro, el Gato y Yo",Guardianes Del Amor,1993,158,93,69,-4,94,3:38,43,44,2762
+517,Si Te Vuelves a Enamorar - Remasterizado,Bronco,1990,119,62,73,-6,80,3:02,45,55,8299
+518,Y Volveré,Los Angeles Negros,8/2/1994,92,26,59,-15,38,4:04,53,60,6010
+519,Déjenme Si Estoy Llorando,Los Angeles Negros,1/1/2003,159,52,46,-12,77,2:48,25,58,3673
+520,Debut Y Despedida,Los Angeles Negros,1/1/2003,142,25,45,-12,23,2:54,48,58,9437
+521,Ice Ice Baby,Vanilla Ice,11/4/2008,116,79,98,-3,58,4:14,0,71,8626
+522,We No Speak Americano - JT Radio Edit,Yolanda Be Cool,7/17/2010,125,81,90,-5,74,2:37,7,60,8169
+523,Turn Up The Love,Far East Movement,1/1/2012,124,87,75,-4,68,3:16,12,46,8639
+524,La Diva,Alberto Y Roberto,9/28/2018,168,67,64,-5,88,3:01,13,46,4159
+525,Esperando Su Llamada,Emilio Navaira,2000,152,65,56,-8,86,3:48,18,43,8675
+526,Le Diré,La Firma,6/14/2005,130,70,79,-8,97,3:24,39,56,4118
+527,Le Pediré,Bobby Pulido,1/1/1997,160,46,72,-13,85,3:33,13,53,1898
+528,Más Fuerte Que Hércules,La Leyenda,2/14/2011,136,61,73,-6,87,3:42,36,50,5129
+529,De la Noche a la Mañana,Elefante,10/23/2001,129,65,82,-8,89,4:21,5,63,9054
+530,Oye Mi Canto,N.O.R.E.,7/18/2006,96,95,68,-3,95,4:01,19,63,2181
+531,Tu Pun Pun,El General,4/14/2009,179,55,79,-8,79,3:33,22,55,4262
+532,La Botella,Mach & Daddy,1/1/2005,118,80,75,-4,92,2:59,19,69,6892
+533,Perdóname,Eddy Lover,1/1/2008,95,82,68,-6,39,4:03,24,2,5873
+534,Rica y Apretadita (feat. Anayka),El General,1991,115,85,85,-6,82,4:22,16,62,5779
+535,Ven Bailalo,Angel Y Khriz,12/29/2011,97,92,68,-6,70,4:12,5,7,2345
+536,Llegó la Cripta,El Chombo,1999,109,85,92,-11,96,2:27,1,53,1655
+537,Passion Whine,Farruko,2/22/2016,162,69,76,-4,78,3:33,33,69,9014
+538,los Disicipulos,Eddie Dee,2005,94,89,63,-4,86,4:30,18,59,3810
+539,Echa Pa'lla (Manos Pa'rriba),Pitbull,11/16/2012,90,84,46,-4,96,3:16,6,57,3385
+540,Mr. P-Mosh,Plastilina Mosh,6/30/1998,95,61,79,-10,48,4:23,2,60,5344
+541,Ni tú ni nadie,Alaska Y Dinarama,12/11/2015,138,83,56,-4,50,3:37,9,3,6242
+542,"Tu Carcel - En Vivo Desde Tijuana, Mexico/2004",Los Enanitos Verdes,1/1/2004,117,75,64,-5,58,4:02,15,66,4056
+543,Por Enamorarme,Los Plebes del Rancho de Ariel Camacho,4/14/2017,157,62,60,-4,83,2:56,67,71,8302
+544,Que No Quede Huella,Bronco,9/20/2019,160,86,76,-5,96,3:01,53,60,8474
+545,Muchacha Triste,Los Fantasmas del Caribe,8/1/2010,124,68,86,-9,98,4:05,15,58,5069
+546,La Burbuja,Liberación,1/1/1990,95,85,66,-8,92,3:18,21,48,1633
+547,Rosas Rojas,Industria del Amor,1/1/1993,142,64,57,-11,41,3:31,3,62,8674
+548,Como Una Novela,Los Acosta,1/1/1995,102,56,76,-10,66,3:46,31,62,9551
+549,Deja Una Rosa En Tu Balcón,Los Acosta,2009,102,59,79,-7,94,4:00,42,61,7240
+550,Cómo Duele,Liberación,1/1/1993,108,59,54,-6,50,3:21,3,40,8346
