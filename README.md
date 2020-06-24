@@ -1,5 +1,4 @@
-# spotifymachinelearning
-Spotify: Predicting and analyzing music tasting.  
+# Spotify: Predicting and analyzing music tasting.  
 
 Spotify knows me better than I know myself?
 Verify if the songs suggested by “Discover weekly playlist” are based on my musical habits (the ones I like, share, save, and don't like). Find out through Exploratory Data Analysis and machine learning what features of a song I like/dislike and predict whether I like or dislike a song. 
