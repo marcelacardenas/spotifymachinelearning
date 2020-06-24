@@ -22,8 +22,8 @@ Acoustic - The higher the value the more acoustic the song is. <br />
 Popularity - The higher the value the more popular the song is. <br />
 Rnd - A randon number. Sort by this column to shuffle your playlist. <br />
  
-Choosing the right estimator: Classification (Category - Labeled Data): <br />
-Predictive model: Like or Dislike a song (Score: 70/30) <br />
+##### Choosing the right estimator: Classification (Category - Labeled Data): <br />
+##### Predictive model: Like or Dislike a song (Score: 70/30)  <br /> 
 - Model : Logistic Regression - Score: 86% <br />
 - Random Forest Classifier - Score: 89% <br />
 - XGBOOST - Score:90% <br />
