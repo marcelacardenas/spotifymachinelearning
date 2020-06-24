@@ -4,7 +4,7 @@ Spotify: Predicting and analyzing music tasting.
 Spotify knows me better than I know myself?
 Verify if the songs suggested by “Discover weekly playlist” are based on my musical habits (the ones I like, share, save, and don't like). Find out through Exploratory Data Analysis and machine learning what features of a song I like/dislike and predict whether I like or dislike a song. 
  
-Goal: Gain a better understanding of musical behavior listening Spotify.
+Goal: Get a better understanding of musical behavior listening Spotify.
  
 Data set: Used an app created using the Spotify API "Sort Your Music" to fetch the data, you only need an Spotify account to get access. 
  
