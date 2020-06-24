@@ -1,7 +1,8 @@
 # Spotify: Predicting and analyzing music tasting.  
 
 #### Spotify knows me better than I know myself? <br />
-Verify if the songs suggested by ** “Discover weekly playlist” ** are based on my musical habits (the ones I like, share, save, and don't like). Find out through Exploratory Data Analysis and machine learning what features of a song I like/dislike and predict whether I like or dislike a song. 
+Verify if the songs suggested by ** “Discover weekly playlist” ** are based on my musical habits (the ones I like, share, save, and don't like). <br />
+Find out through Exploratory Data Analysis and machine learning what features of a song I like/dislike and predict whether I like or dislike a song. .<br />
  
 > Goal: Get a better understanding of musical behavior listening Spotify.<br />
  
@@ -21,10 +22,11 @@ Acoustic - The higher the value the more acoustic the song is. <br />
 Popularity - The higher the value the more popular the song is. <br />
 Rnd - A randon number. Sort by this column to shuffle your playlist. <br />
  
-Choosing the right estimator: Classification (Category - Labeled Data): Predictive model: Like or Dislike a song (Score: 70/30) <br />
-Model : Logistic Regression - Score: 86% <br />
-Random Forest Classifier - Score: 89% <br />
-XGBOOST - Score:90% <br />
+Choosing the right estimator: Classification (Category - Labeled Data): <br />
+Predictive model: Like or Dislike a song (Score: 70/30) <br />
+- Model : Logistic Regression - Score: 86% <br />
+- Random Forest Classifier - Score: 89% <br />
+- XGBOOST - Score:90% <br />
 
 Tools an Python Libraries used:<br />
 - Spotify API<br />
