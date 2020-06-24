@@ -5,7 +5,10 @@ Verify if the songs suggested by “Discover weekly playlist” are based on my 
  
 Goal: Get a better understanding of musical behavior listening Spotify.
  
+ 
+ 
 Data set: Used an app created using the Spotify API "Sort Your Music" to fetch the data, you only need an Spotify account to get access. 
+[sort your music](http://sortyourmusic.playlistmachinery.com/index.html)
  
 Audio Analysis song attributes:
 Beats Per Minute (BPM) - The tempo of the song.
